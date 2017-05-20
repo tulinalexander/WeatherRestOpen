@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherRestOpen</string>
+
+
+    <string name="item_evening">Вечер</string>
+    <string name="item_morning">Утро</string>
+    <string name="item_day">День</string>
+    <string name="item_night">Ночь</string>
+
+
+    <string name="menu_search">Поиск</string>
+    <string name="placeholder">Пожалуйста, введите город для формирования прогноза погоды...</string>
+</resources>
